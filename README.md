@@ -15,7 +15,7 @@ Both notebooks use the same core input features:
 They perform cleaning, label encoding (NonToxic → 0, Toxic → 1), feature scaling for DL, model training, and evaluation on `test_data.csv`.
 
 ## Dependencies
-Minimal set (approximate — check notebooks for exact imports):
+Minimal set (approximate -> check notebooks for exact imports):
 
 - Python 3.8+
 - pandas
